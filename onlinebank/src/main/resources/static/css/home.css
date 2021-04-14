@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+.loadimage{
+  /* background: url("/images/SynergisticItLogo.png") right no-repeat; */
+  width: auto;
+  background-color: #046dc9;
+  padding: 5px;  
+  text-align: left;
+  color: #f5f5f5;
+}
+
+.loadimage{
+  padding-top: 10px;
+}
+.loadimage .feature{
+  color: yellow;
+  padding-bottom: 10px;
+}
+
+.content{
+	padding: 10px 40px;
+}
+
+.link{
+	font-size: 3em;
+	color: white;
+}
+
+.existing{
+	font-size: large;
+	color: white;
+	align-content: center;
+}
+
+a.button {
+    background: #F0F0F0;
+    border: solid 0.5px grey;
+    padding: 4px 6px;
+    color: black;
+    text-decoration: none;
+    border-radius: 1px;
+    margin-right: 10px;
+}
