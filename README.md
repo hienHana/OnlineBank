@@ -8,6 +8,10 @@ Online Banking project using Java 8, Spring Boot, Spring Boot Security, Hibernat
 
 
 - After login, user can view their account
-
 ![image](https://user-images.githubusercontent.com/22376175/142128557-10951897-a904-4db9-bc56-66b0aaaebdf0.png)
+
+- User can click on "View Account Detail" on top to view their account in detail:
+  
+  ![image](https://user-images.githubusercontent.com/22376175/142129371-74d1ff09-bbee-4eb7-be7b-5305e1a51e72.png)
+
 
